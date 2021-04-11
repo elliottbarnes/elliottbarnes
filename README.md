@@ -1,5 +1,5 @@
-<a href="https://github.com/elliottbarnes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottbarnes&theme=tokyonight&hide=css,html,scss" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=elliottbarnes&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
-<p align="left"> <a href="https://github.com/elliottbarnes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliottbarnes" alt="elliottbarnes" /></a> </p>
+<a href="https://github.com/elliottbarnes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottbarnes&theme=tokyonight&hide=scss" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=elliottbarnes&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
+<p align="left"> <a href="https://github.com/elliottbarnes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliottbarnes&theme=tokyonight" alt="elliottbarnes" /></a> </p>
 
 <!--
 
