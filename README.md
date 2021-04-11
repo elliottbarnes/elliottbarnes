@@ -1,6 +1,4 @@
 <a href="https://github.com/elliottbarnes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottbarnes&theme=tokyonight&hide=scss" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=elliottbarnes&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
-<p align="left"> <a href="https://github.com/elliottbarnes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliottbarnes&theme=tokyonight" alt="elliottbarnes" /></a> </p>
-
 <!--
 
 theme=tokyonight
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elliottbarnes&theme=tokyonight" alt="elliottbarnes" /></p>
 </p>
+<p align="left"> <a href="https://github.com/elliottbarnes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliottbarnes&theme=tokyonight" alt="elliottbarnes" /></a> </p>
+
 -->
 
 ## → My Languages/Tools
