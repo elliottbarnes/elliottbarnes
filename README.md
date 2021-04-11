@@ -1,17 +1,13 @@
 <p align="center">
 <!--  <img alt="profile pic" width="195px" src="https://avatars.githubusercontent.com/u/54964377?s=400&u=43d493466710fd574dc1ac1bb02d52690bce9012&v=4" /> -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elliottbarnes&hide=ruby,perl&hide_border=true" /> -->
-  
-# My Discord Server
-[![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flate&logo=github&logoColor=white)](https://discord.gg/ADBJQBMA6H)
 
 
 ## → My Languages/Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-f4802b?style=flat&logo=tensorflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-f4802b?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 
@@ -24,12 +20,13 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## → Social Media 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elliottbarnes)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enbarnes/)
-[![Google Developer](https://img.shields.io/badge/Google_Developer-D14836?style=for-the-badge&logo=google&logoColor=white)](https://google.dev/u/109702062079405060980)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elliottbarness/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elliottbarness)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enbarnes@mun.ca)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/elliottbarnes)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enbarnes/)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-D14836?style=flat&logo=google&logoColor=white)](https://google.dev/u/109702062079405060980)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/elliottbarness/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/elliottbarness)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enbarnes@mun.ca)
+[![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flat&logo=github&logoColor=white)](https://discord.gg/ADBJQBMA6H)
 
 
 <p align="left"> <a href="https://github.com/elliottbarnes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliottbarnes" alt="elliottbarnes" /></a> </p>
