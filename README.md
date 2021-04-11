@@ -1,4 +1,4 @@
-<a href="https://github.com/elliottbarnes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottbarnes&theme=tokyonight&hide=scss" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=elliottbarnes&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
+<a href="https://github.com/elliottbarnes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottbarnes&theme=tokyonight" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=elliottbarnes&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
 <!--
 
 theme=tokyonight
