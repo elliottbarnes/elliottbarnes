@@ -1,6 +1,6 @@
 <p align="center">
-<!--  <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/44928288?s=460&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" /> -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rc-chuah&hide=ruby,perl&hide_border=true" /> -->
+<!--  <img alt="profile pic" width="195px" src="https://avatars.githubusercontent.com/u/54964377?s=400&u=43d493466710fd574dc1ac1bb02d52690bce9012&v=4" /> -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elliottbarnes&hide=ruby,perl&hide_border=true" /> -->
   
 # My Discord Server
 [![Discord](https://img.shields.io/badge/-Discord-738ADB?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/ADBJQBMA6H)
