@@ -29,3 +29,7 @@
 
 
 <p align="left"> <a href="https://github.com/elliottbarnes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliottbarnes" alt="elliottbarnes" /></a> </p>
+
+<img alt="Elliott's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elliottbarnes&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elliottbarnes&theme=chartreuse-dark" alt="elliottbarnes" /></p>
+</p>
