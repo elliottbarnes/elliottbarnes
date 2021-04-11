@@ -1,4 +1,4 @@
-### → My Discord Server
+# → My Discord Server
 [![Discord](https://img.shields.io/badge/-Discord-738ADB?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/ADBJQBMA6H)
 
 
