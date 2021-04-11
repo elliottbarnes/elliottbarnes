@@ -1,4 +1,8 @@
-<a href="https://github.com/acatzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottbarnes&theme=tokyonight&hide=css,html,scss" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=elliottbarnes&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
+<a href="https://github.com/elliottbarnes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottbarnes&theme=tokyonight&hide=css,html,scss" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=elliottbarnes&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elliottbarnes&theme=chartreuse-dark" alt="elliottbarnes" /></p>
+</p>
+
+
 
 <!--
 
@@ -44,6 +48,3 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/elliottbarnes/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elliottbarnes" alt="elliottbarnes" /></a> </p>
 
-<img alt="Elliott's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elliottbarnes&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elliottbarnes&theme=chartreuse-dark" alt="elliottbarnes" /></p>
-</p>
