@@ -1,3 +1,7 @@
+<p align="center">
+<!--  <img alt="profile pic" width="195px" src="https://avatars.githubusercontent.com/u/54964377?v=4" /> -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elliottbarnes&hide=ruby,perl&hide_border=true" /> -->
+
 ## → My Languages/Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
