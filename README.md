@@ -3,16 +3,16 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elliottbarnes&hide=ruby,perl&hide_border=true" /> -->
   
 # My Discord Server
-[![Discord](https://img.shields.io/badge/-Discord-738ADB?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/ADBJQBMA6H)
+[![Discord](https://img.shields.io/badge/-Discord-738ADB?style=flate&logo=github&logoColor=white)](https://discord.gg/ADBJQBMA6H)
 
 
 ## → My Languages/Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-f4802b?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-f4802b?style=flat&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 
 ## → I am interested in working with
