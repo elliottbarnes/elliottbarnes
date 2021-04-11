@@ -1,7 +1,4 @@
 <a href="https://github.com/elliottbarnes"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottbarnes&theme=tokyonight&hide=css,html,scss" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=elliottbarnes&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elliottbarnes&theme=chartreuse-dark" alt="elliottbarnes" /></p>
-</p>
-
 
 
 <!--
@@ -17,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elliottbarnes&theme=tokyonight" alt="elliottbarnes" /></p>
+</p>
 -->
 
 ## → My Languages/Tools
