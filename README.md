@@ -38,13 +38,13 @@ A SwiftUI music-interface experiment with Spotify Web API integration and OAuth 
 
 `Swift` `SwiftUI` `Spotify Web API` `OAuth / PKCE`
 
-### [Terminal Tetris](https://github.com/elliottbarnes/terminal_tetris)
+### [Emotion Detection CNN](https://github.com/elliottbarnes/emotion-detection-cnn)
 
-A small Tetris clone for the terminal. A different kind of interface, built in Go.
+A convolutional neural network experiment for classifying two emotions.
 
-`Go` `Terminal UI`
+`Python` `Computer vision`
 
-More experiments: [emotion classification](https://github.com/elliottbarnes/emotion-detection-cnn) · [image processing](https://github.com/elliottbarnes/image-processing) · [StarCraft bot](https://github.com/elliottbarnes/cheese-bot)
+More experiments: [image processing](https://github.com/elliottbarnes/image-processing) · [StarCraft bot](https://github.com/elliottbarnes/cheese-bot) · [Terminal Tetris (source pending)](https://github.com/elliottbarnes/terminal_tetris)
 
 ## Toolkit
 
