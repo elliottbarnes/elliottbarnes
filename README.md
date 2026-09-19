@@ -1,6 +1,6 @@
 <div align="center">
 
-# Elliott 🌌
+# Elliott
 
 **ai connoisseur**
 
