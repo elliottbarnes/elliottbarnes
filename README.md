@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="900" alt="Original pixel-inspired console panel in warm grey, charcoal, and red.">
+  <img src="./assets/profile-header.svg" width="900" alt="Nintendo 64-inspired header: Elliott on a red background beside a grey three-grip controller with yellow C buttons.">
 </p>
 
 # Elliott 🕹️

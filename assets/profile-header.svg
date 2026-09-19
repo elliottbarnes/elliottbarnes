@@ -1,17 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 144" role="img" aria-labelledby="title desc">
-  <title id="title">Pixel console panel</title>
-  <desc id="desc">An original geometric illustration with a warm grey casing, dark inset, red buttons, and pixel accents.</desc>
-  <rect width="960" height="144" rx="8" fill="#e9e5dc"/>
-  <path d="M0 112h960v24a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8Z" fill="#d5d1c9"/>
-  <rect x="24" y="24" width="912" height="76" rx="4" fill="#292b2e"/>
-  <g fill="#e9e5dc" shape-rendering="crispEdges">
-    <path d="M48 44h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zM48 60h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zM48 76h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8z"/>
-    <path d="M120 44h80v8h-72v8h56v8h-56v8h72v8h-80zm104 0h64v8h-56v8h48v8h-48v8h56v8h-64zm64 8h8v8h-8zm0 16h8v8h-8z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Elliott — Nintendo 64-inspired profile header</title>
+  <desc id="desc">A vivid red background with dimensional cream lettering and an original grey three-grip controller illustration. Four yellow directional C buttons, a blue A button, a green B button, and an analogue stick recall the Nintendo 64 era.</desc>
+  <defs>
+    <linearGradient id="red" x2="1" y2="1">
+      <stop stop-color="#ee3340"/>
+      <stop offset="1" stop-color="#b80f29"/>
+    </linearGradient>
+    <linearGradient id="shell" x2="0.65" y2="1">
+      <stop stop-color="#f0eee8"/>
+      <stop offset="0.48" stop-color="#c5c6c6"/>
+      <stop offset="1" stop-color="#92989e"/>
+    </linearGradient>
+    <linearGradient id="yellow" x2="0.3" y2="1">
+      <stop stop-color="#fff17b"/>
+      <stop offset="1" stop-color="#f4c51b"/>
+    </linearGradient>
+    <linearGradient id="stick" x2="0.3" y2="1">
+      <stop stop-color="#ededdf"/>
+      <stop offset="1" stop-color="#a9aca8"/>
+    </linearGradient>
+    <path id="controller" d="M77 45C104 29 140 35 161 47C179 42 201 42 219 47C244 34 279 28 305 45C332 68 345 107 353 145L367 221Q365 238 348 236L305 213L278 166C258 154 240 164 228 186L216 237Q212 252 195 252Q178 252 174 237L162 186C150 164 130 154 110 166L83 213L40 236Q23 238 21 221L35 145C43 106 53 68 77 45Z"/>
+  </defs>
+
+  <rect width="960" height="260" rx="12" fill="url(#red)"/>
+  <path d="M388 0H681L524 260H232Z" fill="#ff6970" opacity="0.09"/>
+  <path d="M769 0H960V260H612Z" fill="#73091c" opacity="0.13"/>
+  <path d="M24 22H936M24 238H936" stroke="#ff7a80" stroke-opacity="0.3"/>
+
+  <g font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="76" letter-spacing="2">
+    <text x="55" y="132" fill="#790b1e">ELLIOTT</text>
+    <text x="52" y="126" fill="#fff5db">ELLIOTT</text>
   </g>
-  <path d="M328 76h160v8H328z" fill="#999e94"/>
-  <path d="M328 44h64v8h-64zM408 44h16v8h-16z" fill="#b83c3d"/>
-  <g fill="#b83c3d"><circle cx="836" cy="62" r="18"/><circle cx="890" cy="62" r="18"/></g>
-  <path d="M720 44h64v4h-64zm0 12h64v4h-64zm0 12h64v4h-64zm0 12h64v4h-64z" fill="#777c75"/>
-  <path d="M24 120h176v4H24z" fill="#b83c3d"/>
-  <path d="M864 120h72v4h-72z" fill="#8b8a84"/>
+  <path d="M54 155H93" stroke="#ffdc3a" stroke-width="5"/>
+  <text x="54" y="188" fill="#fff5db" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE / SYSTEMS / AI</text>
+
+  <g transform="translate(576 8) scale(0.92)">
+    <use href="#controller" transform="translate(0 9)" fill="#760c22" opacity="0.5"/>
+    <use href="#controller" fill="url(#shell)" stroke="#747d87" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M81 48C105 36 135 39 159 51M224 51C250 38 281 34 302 48" fill="none" stroke="#fff" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M53 178L37 218M332 178L349 218M191 197V232" fill="none" stroke="#747d87" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Directional pad: the controller's left grip. -->
+    <circle cx="100" cy="94" r="36" fill="#a6aaad" stroke="#bac0c3" stroke-width="2"/>
+    <path d="M90 66H110V84H128V104H110V122H90V104H72V84H90Z" fill="#303640" stroke="#171f2b" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M94 72H106M78 90V99" fill="none" stroke="#69717d" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="100" cy="94" r="6" fill="#222a35"/>
+
+    <!-- Small red Start button and octagonal analogue-stick well. -->
+    <ellipse cx="193" cy="85" rx="13" ry="9" fill="#77818a"/>
+    <ellipse cx="193" cy="82" rx="11" ry="8" fill="#d42c36" stroke="#982430" stroke-width="1.5"/>
+    <path d="M179 117H205L225 137V164L205 184H179L159 164V137Z" fill="#858d94" stroke="#e3e3dd" stroke-width="2"/>
+    <path d="M182 125H202L217 140V161L202 176H182L167 161V140Z" fill="#596570"/>
+    <ellipse cx="192" cy="157" rx="20" ry="13" fill="#303e4b" opacity="0.5"/>
+    <path d="M186 142H199V158Q192 164 186 158Z" fill="#b4b7b3"/>
+    <ellipse cx="192" cy="139" rx="22" ry="15" fill="url(#stick)" stroke="#8d9598" stroke-width="2"/>
+    <ellipse cx="192" cy="137" rx="14" ry="9" fill="none" stroke="#858e91" stroke-width="1.5"/>
+    <ellipse cx="192" cy="137" rx="7" ry="4" fill="none" stroke="#858e91" stroke-width="1.2"/>
+
+    <!-- Four yellow C buttons in the signature diamond arrangement. -->
+    <g fill="#7d827e">
+      <circle cx="288" cy="66" r="16"/>
+      <circle cx="264" cy="90" r="16"/>
+      <circle cx="312" cy="90" r="16"/>
+      <circle cx="288" cy="114" r="16"/>
+    </g>
+    <g fill="url(#yellow)" stroke="#a8840d" stroke-width="1.5">
+      <circle cx="288" cy="63" r="14"/>
+      <circle cx="264" cy="87" r="14"/>
+      <circle cx="312" cy="87" r="14"/>
+      <circle cx="288" cy="111" r="14"/>
+    </g>
+    <g fill="#806414">
+      <path d="M282 66L288 58L294 66Z"/>
+      <path d="M267 81L259 87L267 93Z"/>
+      <path d="M309 81L317 87L309 93Z"/>
+      <path d="M282 108L288 116L294 108Z"/>
+    </g>
+
+    <circle cx="242" cy="130" r="14" fill="#5f7375"/>
+    <circle cx="265" cy="155" r="17" fill="#5f7375"/>
+    <circle cx="242" cy="127" r="12" fill="#26ac72" stroke="#157450" stroke-width="1.5"/>
+    <circle cx="265" cy="151" r="15" fill="#287bce" stroke="#1b528f" stroke-width="1.5"/>
+    <g fill="#eaf3eb" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+      <text x="242" y="131">B</text>
+      <text x="265" y="155">A</text>
+    </g>
+  </g>
 </svg>
