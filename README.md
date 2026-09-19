@@ -6,7 +6,7 @@
 
 # Elliott 🕹️
 
-**ai connoiseur**
+**ai connoisseur**
 
 [![elliott](https://img.shields.io/badge/elliott-FFD329?style=for-the-badge)](https://elliottbarnes.ca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD329?style=for-the-badge)](https://www.linkedin.com/in/elliottbarnes1/)
 
