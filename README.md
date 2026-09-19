@@ -1,57 +1,60 @@
 <div align="center">
 
-# Elliott Barnes
+# 👾 Elliott
 
-**Senior Software Developer · Nasdaq Verafin**
+**AI Enthusiast & Curious Tinkerer**
 
 Financial technology by profession. AI, apps, and experiments by curiosity.
 
-[LinkedIn](https://www.linkedin.com/in/enbarnes/) · [Google Developer](https://developers.google.com/profile/u/109702062079405060980) · [Explore my projects](https://github.com/elliottbarnes?tab=repositories)
+[🖥️ Enter EB.EXE](https://elliottbarnes.ca) · [💼 LinkedIn](https://www.linkedin.com/in/enbarnes/) · [🗂️ All repositories](https://github.com/elliottbarnes?tab=repositories)
 
 </div>
 
----
+```text
+> boot eb.exe
 
-I'm Elliott, a Senior Software Developer at **Nasdaq Verafin**. [Nasdaq Verafin](https://verafin.com/) builds financial crime management technology that helps financial institutions detect fraud and combat money laundering.
+  curiosity .......... online
+  experiment queue ... never empty
+  next command ....... build something useful
 
-My personal projects range from generative AI and computer vision to SwiftUI apps and terminal games. This profile is a window into that independent work and the tools I'm exploring.
+> _
+```
 
-## AI & developer tools
+## 👋 Hello, human
 
-Working with **DeepSeek and model APIs**, exploring **coding agents with Codex**, and building **generative AI workflows**. My image-generation work uses Stable Diffusion, PyTorch, and Streamlit; earlier experiments include TensorFlow and image classification.
+I'm Elliott. I work in financial technology at **Nasdaq Verafin**, and this is my personal workbench for AI, developer tools, and ideas worth turning into working software.
 
-[![DeepSeek API](https://img.shields.io/badge/DeepSeek_API-3347A8?style=flat-square)](https://api-docs.deepseek.com/) [![PyTorch](https://img.shields.io/badge/PyTorch-B83A25?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-A64B00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+I like the questions behind the demo: *Did the model improve? Where did that record go? What happens when the queue fills up? Can I reproduce this result?*
 
-**Currently exploring:** small, local-first tools in [Agent Playground](https://github.com/elliottbarnes/agent-playground), including a browser-based Prompt Refiner, while developing my coding-agent and Git workflows.
+A little playfulness in the interface. A little rigor under the hood. 🛠️
 
-## Selected work
+## 🕹️ Select a cartridge
 
-### [Text to Image](https://github.com/elliottbarnes/text_to_image_w_stable_diffusion)
+| Project | What's inside | Built with |
+| --- | --- | --- |
+| 📦 **[Batchline](https://github.com/elliottbarnes/batchline)** | An inference-serving lab: a tiny model, real batching, bounded queues, and observable behavior. | Python · HTTP · Prometheus-format metrics |
+| 🧪 **[EvalDeck](https://github.com/elliottbarnes/evaldeck)** | Replay-first checks for AI outputs, baseline regression gates, and readable HTML/JSON reports. | Python · JSONL · Contract tests |
+| 🧾 **[Reconcile Kit](https://github.com/elliottbarnes/reconcile-kit)** | CSV reconciliation with exact decimal amounts, duplicate detection, and source-line evidence. | Java 21 · Gradle · awk |
+| 🌈 **[Prism Studio](https://github.com/elliottbarnes/prism-studio)** | A local SDXL workbench with seeded runs, a CLI and UI, and an image + experiment record. | Diffusers · PyTorch · Streamlit |
 
-Generate images from text prompts with Stable Diffusion and an interactive Streamlit interface.
+Independent projects, with runnable examples, tests, and documented tradeoffs. Each README explains what works, how to try it, and where the edges are.
 
-`Python` `PyTorch` `Stable Diffusion` `Streamlit`
+## 🔧 Inventory
 
-### [MusicCloneApp](https://github.com/elliottbarnes/MusicCloneApp)
+- **Languages & shell:** `Java` `Python` `C++` `awk`
+- **AI & interfaces:** `PyTorch` `Diffusers` `Streamlit`
+- **Build & cloud:** `Gradle` `Docker` `AWS`
 
-A SwiftUI music-interface experiment with Spotify Web API integration and OAuth authentication using PKCE. Playback controls are simulated.
+## 🔭 Current side quests
 
-`Swift` `SwiftUI` `Spotify Web API` `OAuth / PKCE`
+- Making AI experiments easier to evaluate, repeat, and inspect.
+- Exploring coding agents with **Codex**—and keeping the results understandable.
+- Finding the smallest useful tool hiding inside an interesting problem.
 
-### [Emotion Detection CNN](https://github.com/elliottbarnes/emotion-detection-cnn)
+## 📡 Open a channel
 
-A convolutional neural network experiment for classifying two emotions.
+Find the full retro experience at **[elliottbarnes.ca](https://elliottbarnes.ca)**, connect on **[LinkedIn](https://www.linkedin.com/in/enbarnes/)**, or open an issue in the relevant repository with a question, bug, or idea.
 
-`Python` `Computer vision`
+[Google Developer profile](https://developers.google.com/profile/u/109702062079405060980)
 
-More experiments: [image processing](https://github.com/elliottbarnes/image-processing) · [StarCraft bot](https://github.com/elliottbarnes/cheese-bot) · [Terminal Tetris (source pending)](https://github.com/elliottbarnes/terminal_tetris)
-
-## Toolkit
-
-- **Languages:** Java, Python, Swift, Go, C++
-- **Apps & cloud:** SwiftUI, Streamlit, Docker, AWS, Google Cloud
-- **Exploring further:** React, PostgreSQL, Kotlin
-
----
-
-For professional connections, find me on [LinkedIn](https://www.linkedin.com/in/enbarnes/). For project ideas or feedback, open an issue in the relevant repository.
+*Save your work. Stay curious. Try the weird idea.* ✨
