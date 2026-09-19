@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 144" role="img" aria-labelledby="title desc">
+  <title id="title">Pixel console panel</title>
+  <desc id="desc">An original geometric illustration with a warm grey casing, dark inset, red buttons, and pixel accents.</desc>
+  <rect width="960" height="144" rx="8" fill="#e9e5dc"/>
+  <path d="M0 112h960v24a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8Z" fill="#d5d1c9"/>
+  <rect x="24" y="24" width="912" height="76" rx="4" fill="#292b2e"/>
+  <g fill="#e9e5dc" shape-rendering="crispEdges">
+    <path d="M48 44h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zM48 60h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8zM48 76h8v8h-8zm16 0h8v8h-8zm16 0h8v8h-8z"/>
+    <path d="M120 44h80v8h-72v8h56v8h-56v8h72v8h-80zm104 0h64v8h-56v8h48v8h-48v8h56v8h-64zm64 8h8v8h-8zm0 16h8v8h-8z"/>
+  </g>
+  <path d="M328 76h160v8H328z" fill="#999e94"/>
+  <path d="M328 44h64v8h-64zM408 44h16v8h-16z" fill="#b83c3d"/>
+  <g fill="#b83c3d"><circle cx="836" cy="62" r="18"/><circle cx="890" cy="62" r="18"/></g>
+  <path d="M720 44h64v4h-64zm0 12h64v4h-64zm0 12h64v4h-64zm0 12h64v4h-64z" fill="#777c75"/>
+  <path d="M24 120h176v4H24z" fill="#b83c3d"/>
+  <path d="M864 120h72v4h-72z" fill="#8b8a84"/>
+</svg>

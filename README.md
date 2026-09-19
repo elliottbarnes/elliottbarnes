@@ -1,60 +1,51 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" width="900" alt="Original pixel-inspired console panel in warm grey, charcoal, and red.">
+</p>
 
-# 👾 Elliott Barnes
+# Elliott
 
-**Software Developer · AI & Developer Tools**
+**AI Enthusiast**
 
-Financial technology by profession. AI, apps, and experiments by curiosity.
+[Website](https://elliottbarnes.ca) · [LinkedIn](https://www.linkedin.com/in/elliottbarnes1/) · [Google Developer](https://developers.google.com/profile/u/109702062079405060980)
 
-[🖥️ Enter EB.EXE](https://elliottbarnes.ca) · [💼 LinkedIn](https://www.linkedin.com/in/enbarnes/) · [🗂️ All repositories](https://github.com/elliottbarnes?tab=repositories)
+I'm a Senior Software Developer at **[Nasdaq Verafin](https://verafin.com/)**, which builds software to help financial institutions detect fraud and combat money laundering.
 
-</div>
+Outside work, I build tools for AI evaluation, inference, and data processing. My independent projects focus on reproducible results, clear failure modes, and useful output.
 
-```text
-> boot eb.exe
+## Selected projects
 
-  curiosity .......... online
-  experiment queue ... never empty
-  next command ....... build something useful
+### [Batchline](https://github.com/elliottbarnes/batchline)
+An inference infrastructure lab with dynamic batching, bounded queues, backpressure, and metrics.
 
-> _
-```
+`Python` · `HTTP` · `Containers`
 
-## 👋 Hello, human
+### [EvalDeck](https://github.com/elliottbarnes/evaldeck)
+Replay-first contract tests for AI outputs, with baseline regression gates and portable HTML and JSON reports.
 
-I'm Elliott. I work in financial technology at **Nasdaq Verafin**, and this is my personal workbench for AI, developer tools, and ideas worth turning into working software.
+`Python` · `JSONL` · `Evaluation`
 
-I like the questions behind the demo: *Did the model improve? Where did that record go? What happens when the queue fills up? Can I reproduce this result?*
+### [Reconcile Kit](https://github.com/elliottbarnes/reconcile-kit)
+CSV reconciliation with exact decimal amounts, duplicate detection, and source-line evidence.
 
-A little playfulness in the interface. A little rigor under the hood. 🛠️
+`Java 21` · `Gradle` · `awk`
 
-## 🕹️ Select a cartridge
+### [Prism Studio](https://github.com/elliottbarnes/prism-studio)
+A local SDXL workbench with a CLI and Streamlit interface, seeded runs, and PNG and JSON experiment records.
 
-| Project | What's inside | Built with |
-| --- | --- | --- |
-| 📦 **[Batchline](https://github.com/elliottbarnes/batchline)** | An inference-serving lab: a tiny model, real batching, bounded queues, and observable behavior. | Python · HTTP · Prometheus-format metrics |
-| 🧪 **[EvalDeck](https://github.com/elliottbarnes/evaldeck)** | Replay-first checks for AI outputs, baseline regression gates, and readable HTML/JSON reports. | Python · JSONL · Contract tests |
-| 🧾 **[Reconcile Kit](https://github.com/elliottbarnes/reconcile-kit)** | CSV reconciliation with exact decimal amounts, duplicate detection, and source-line evidence. | Java 21 · Gradle · awk |
-| 🌈 **[Prism Studio](https://github.com/elliottbarnes/prism-studio)** | A local SDXL workbench with seeded runs, a CLI and UI, and an image + experiment record. | Diffusers · PyTorch · Streamlit |
+`PyTorch` · `Diffusers` · `Streamlit`
 
-Independent projects, with runnable examples, tests, and documented tradeoffs. Each README explains what works, how to try it, and where the edges are.
+[All repositories](https://github.com/elliottbarnes?tab=repositories) · [Selected coursework](https://github.com/elliottbarnes/school-projects)
 
-## 🔧 Inventory
+## Tools & interests
 
-- **Languages & shell:** `Java` `Python` `C++` `awk`
-- **AI & interfaces:** `PyTorch` `Diffusers` `Streamlit`
-- **Build & cloud:** `Gradle` `Docker` `AWS`
+**Code:** Java, Python, C++, awk
 
-## 🔭 Current side quests
+**Build:** Gradle, Docker, AWS
 
-- Making AI experiments easier to evaluate, repeat, and inspect.
-- Exploring coding agents with **Codex**—and keeping the results understandable.
-- Finding the smallest useful tool hiding inside an interesting problem.
+**AI:** PyTorch, Diffusers, DeepSeek, model APIs, and coding agents with Codex
 
-## 📡 Open a channel
+Currently exploring how to make AI workflows easier to evaluate, reproduce, and inspect.
 
-Find the full retro experience at **[elliottbarnes.ca](https://elliottbarnes.ca)**, connect on **[LinkedIn](https://www.linkedin.com/in/enbarnes/)**, or open an issue in the relevant repository with a question, bug, or idea.
+---
 
-[Google Developer profile](https://developers.google.com/profile/u/109702062079405060980)
-
-*Save your work. Stay curious. Try the weird idea.* ✨
+For professional connections, find me on [LinkedIn](https://www.linkedin.com/in/elliottbarnes1/). For questions or feedback on a project, open an issue in its repository.
