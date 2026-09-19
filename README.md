@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👾 Elliott
+# 👾 Elliott Barnes
 
-**AI Enthusiast & Curious Tinkerer**
+**Software Developer · AI & Developer Tools**
 
 Financial technology by profession. AI, apps, and experiments by curiosity.
 
