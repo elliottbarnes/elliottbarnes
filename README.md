@@ -4,7 +4,7 @@
 
 # Elliott
 
-**AI Enthusiast**
+**ai connoisseur**
 
 [Website](https://elliottbarnes.ca) · [LinkedIn](https://www.linkedin.com/in/elliottbarnes1/) · [Google Developer](https://developers.google.com/profile/u/109702062079405060980)
 
