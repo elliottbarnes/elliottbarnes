@@ -31,9 +31,3 @@ Outside work, I build tools for AI evaluation, inference, and data processing. I
 ### AI
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-241638?style=for-the-badge&logo=pytorch&logoColor=C4B5FD) ![Diffusers](https://img.shields.io/badge/Diffusers-241638?style=for-the-badge&logo=huggingface&logoColor=C4B5FD) ![DeepSeek](https://img.shields.io/badge/DeepSeek-241638?style=for-the-badge&logo=deepseek&logoColor=C4B5FD) ![Model APIs](https://img.shields.io/badge/Model_APIs-241638?style=for-the-badge) ![Codex](https://img.shields.io/badge/Codex-241638?style=for-the-badge)
-
-🔬 Currently exploring how to make AI workflows easier to evaluate, reproduce, and inspect.
-
-<img src="./assets/cyberpunk-divider.svg" width="900" alt="">
-
-Projects are pinned below. For questions or feedback, open an issue in the relevant repository.
