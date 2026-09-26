@@ -6,14 +6,6 @@
 
 <img src="./assets/cyberpunk-divider.svg" width="900" alt="">
 
-## About
-
-I'm a Senior Software Developer at **[Nasdaq Verafin](https://verafin.com/)**, which builds software to help financial institutions detect fraud and combat money laundering.
-
-Outside work, I build tools for AI evaluation, inference, and data processing. I like reproducible experiments, clear failure modes, and software that earns its place.
-
-<img src="./assets/cyberpunk-divider.svg" width="900" alt="">
-
 ## Tools & interests
 
 ### Code
