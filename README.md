@@ -1,10 +1,6 @@
 <div align="center">
 
-# Elliott
-
-**ai connoisseur**
-
-[![elliott](https://img.shields.io/badge/elliott-241638?style=for-the-badge)](https://elliottbarnes.ca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-142B49?style=for-the-badge)](https://www.linkedin.com/in/elliottbarnes1/)
+⬇️
 
 </div>
 
