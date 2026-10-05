@@ -1,21 +1,18 @@
-<div align="center">
+# Elliott Barnes
 
-⬇️
+Compilers, graphics, and the systems underneath.
 
-</div>
+I build small languages and interactive tools that make their inner workings visible. Edit the input, inspect the steps, and run the result in your browser.
 
-<img src="./assets/cyberpunk-divider.svg" width="900" alt="">
+[Website](https://elliottbarnes.ca/) · [LinkedIn](https://www.linkedin.com/in/elliottbarnes1/)
 
-## Tools & interests
+## Selected work
 
-### Code
+**[Glassbox](https://github.com/elliottbarnes/glassbox)** · [Try it ↗](https://elliottbarnes.github.io/glassbox/)<br>
+A typed language compiled directly to WebAssembly. Inspect the intermediate code, follow optimizations, and compare interpreter and Wasm results.
 
-![Java](https://img.shields.io/badge/Java-241638?style=for-the-badge&logo=openjdk&logoColor=C4B5FD) ![Python](https://img.shields.io/badge/Python-241638?style=for-the-badge&logo=python&logoColor=C4B5FD) ![C++](https://img.shields.io/badge/C%2B%2B-241638?style=for-the-badge&logo=cplusplus&logoColor=C4B5FD) ![awk](https://img.shields.io/badge/awk-241638?style=for-the-badge)
+**[Pixel Language](https://github.com/elliottbarnes/pixel-language)** · [Try it ↗](https://elliottbarnes.github.io/pixel-language/)<br>
+A graphics language that compiles expressions to GLSL. Edit a program, inspect its shader, and watch the pixels change.
 
-### Build
-
-![Gradle](https://img.shields.io/badge/Gradle-142B49?style=for-the-badge&logo=gradle&logoColor=7DD3FC) ![Docker](https://img.shields.io/badge/Docker-142B49?style=for-the-badge&logo=docker&logoColor=7DD3FC) ![AWS](https://img.shields.io/badge/AWS-142B49?style=for-the-badge)
-
-### AI
-
-![PyTorch](https://img.shields.io/badge/PyTorch-241638?style=for-the-badge&logo=pytorch&logoColor=C4B5FD) ![Diffusers](https://img.shields.io/badge/Diffusers-241638?style=for-the-badge&logo=huggingface&logoColor=C4B5FD) ![DeepSeek](https://img.shields.io/badge/DeepSeek-241638?style=for-the-badge&logo=deepseek&logoColor=C4B5FD) ![Model APIs](https://img.shields.io/badge/Model_APIs-241638?style=for-the-badge) ![Codex](https://img.shields.io/badge/Codex-241638?style=for-the-badge)
+**[Automata Lab](https://github.com/elliottbarnes/automata-lab)** · [Try it ↗](https://elliottbarnes.github.io/automata-lab/)<br>
+A regular-expression compiler you can take apart. Explore NFA construction, DFA conversion, and minimization, then step through a match.
