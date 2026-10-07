@@ -1,3 +1,1 @@
-# elliott
-
-typing… ⌨️
+👋 
